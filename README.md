@@ -8,5 +8,5 @@ I redesigned the Dapp given on the following link https://trufflesuite.com/guide
 * Paste TestAdoption.sol file from this repository into the test directory
 * Run command **truffle test**
 * Open /src/js/app.js and replace app.js of the directory with this app.js given in this repository
-* run **npm run dev**
+* run **npm run dev** <br>
 What is happening? You created a contract named **Adoption.sol** and migrated it to Ganache using truffle. You then created front end using app.js. Now front end is onnected to Blockchain via Web3 to Ganache. This is it...
