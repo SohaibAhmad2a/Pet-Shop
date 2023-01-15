@@ -1,7 +1,7 @@
 # PetShop
 I redesigned the Dapp given on the following link https://trufflesuite.com/guides/pet-shop/#background. In order to use the Dapp, follow the steps:
 * Install the truffle
-* Create a directory, we gave **Dog** name to it.
+* Create a directory, we gave Dog name to it.
 * Intialize the truffle with command **truffle unbox pet-shop** in your
 * Paste Adoption.sol from this repository to Dog/contracts
 * Paste 2_deploy_contracts.js from this repository to Dog/migrations
